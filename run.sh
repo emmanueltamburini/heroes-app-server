@@ -1,0 +1,3 @@
+#!/bin/bash
+npm i json-server
+json-server --watch db.json
